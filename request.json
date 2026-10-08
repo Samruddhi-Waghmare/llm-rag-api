@@ -1,0 +1,7 @@
+{
+  "messages": [
+    {"role": "user", "content": "Explain what a neural network is"}
+  ],
+  "max_new_tokens": 150,
+  "temperature": 0.7
+}
